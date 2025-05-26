@@ -1,3 +1,5 @@
+LEER DENTRO DE VISUAL STUDIO U OTRO SITIO, AQUI SE VE MUY FEO Y MAL :c
+
 Sistema de Juego GraphQuest
 Descripción
 GraphQuest es un juego de exploración de laberintos desarrollado en C, donde los jugadores navegan a través de diferentes fases, recolectan ítems, gestionan su inventario y el tiempo para alcanzar una fase final. El juego incorpora elementos de estrategia y gestión de recursos, ya que el peso de los ítems recolectados afecta el tiempo consumido al moverse.
